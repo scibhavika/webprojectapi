@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev":"react-app-start",
-    "start": "serve- -s build",
+    "start": "serve -s build",
     "build":"react-scripts build",
     "heroku-postbuild": "npm run build"
   },
